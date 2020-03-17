@@ -12,6 +12,8 @@ Ketika menambahkan kain baru, dimohon untuk menyertakan properti-properti di baw
 
 ---
 
+[english]
+
 # Traditional Fabrics
 Indonesian Traditional Fabric Database
 
