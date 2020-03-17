@@ -1,2 +1,7 @@
-# kain-tradisional
-Database Kain Tradisional di Indonesia
+# Kain Tradisional
+Database Kain Tradisional Indonesia
+
+---
+
+# Traditional Fabrics
+Indonesian Traditional Fabric Database
