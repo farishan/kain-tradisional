@@ -22,7 +22,7 @@ When adding a new fabric, please include the following properties:
 - displayName - A prettier name of the fabric. If the name is _songket_, the displayName might be Songket (with capitalization).
 - alternateNames - An array of names people might also use when searching for this fabric. Should also be singular and all lowercase.
 - description - A paragraph about the fabric.
-- origin - Where the farbic came from (must be from a part of Indonesia, of course).
+- origin - Where the fabric came from (must be from a part of Indonesia, of course).
 
 ## README.md Inspirations
 - [Diabetes Food Database by travishorn](https://github.com/travishorn/diabetes-food-database)
