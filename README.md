@@ -18,11 +18,11 @@ Indonesian Traditional Fabric Database
 ## Contributing
 When adding a new fabric, please include the following properties:
 
-- name - The name of the fabric. Will be used for searching. Must be unique, singular (_songket_ instead _songkets_) and all lowercase (songket instead of Songket).
-- displayName - A prettier name of the fabric. If the name is _songket_, the displayName might be Songket (with capitalization).
-- alternateNames - An array of names people might also use when searching for this fabric. Should also be singular and all lowercase.
-- description - A paragraph about the fabric.
-- origin - Where the fabric came from (must be from a part of Indonesia, of course).
+- _name_ - The name of the fabric. Will be used for searching. Must be unique, singular (_songket_ instead _songkets_) and all lowercase (songket instead of Songket).
+- _displayName_ - A prettier name of the fabric. If the name is _songket_, the displayName might be Songket (with capitalization).
+- _alternateNames_ - An array of names people might also use when searching for this fabric. Should also be singular and all lowercase.
+- _description_ - A paragraph about the fabric.
+- _origin_ - Where the fabric came from (must be from a part of Indonesia, of course).
 
 ## README.md Inspirations
 - [Diabetes Food Database by travishorn](https://github.com/travishorn/diabetes-food-database)
