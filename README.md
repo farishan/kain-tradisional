@@ -10,6 +10,11 @@ Ketika menambahkan kain baru, dimohon untuk menyertakan properti-properti di baw
 - _description_ - Sebuah paragraf yang mendeskripsikan kain tersebut.
 - _origin_ - Darimana kain tersebut berasal (yang pasti dari sebuah daerah di Indonesia).
 
+## Penggunaan
+Basis data ini boleh digunakan untuk kepentingan apapun, asalkan tidak melanggar hukum, dan mencantumkan sumber.
+https://github.com/farishan/kain-tradisional | Faris Han | Maret 2020
+
+
 ---
 
 [english]
